@@ -23,6 +23,9 @@ The general procedure to use kukaslxctrl is:
 - Start Simulink model
 - Start KUKA program
 
+## Credits:
+This code was developed based on similar code for KRC2 controllers by Bootsman (available at: https://goo.gl/GMbBTD), and with assistance from Bootsman.
+
 ## Contact:
 Please contact Julian Leland (jleland(at)mit(dot)edu) with questions or comments.
 
